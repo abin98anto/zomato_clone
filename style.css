@@ -1,0 +1,25 @@
+/* .others {
+  font-size: 25px;
+  margin-right: 4rem;
+  position: absolute;
+  right: 0;
+}
+
+.dropdown ul li {
+  list-style: none;
+}
+
+.dropdown button {
+  font-size: 12px;
+}
+
+.active {
+  background-color: black !important;
+  color: white !important; 
+}  */
+
+/* to decrease the font-size of the header items */
+
+.navbar-nav {
+  font-size: 12px;
+}
